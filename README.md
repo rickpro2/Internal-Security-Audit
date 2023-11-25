@@ -16,13 +16,21 @@ The IT manager starts by implementing the National Institute of Standards and Te
 
 Your task is to review the IT manager’s scope, goals, and risk assessment report. Then, perform an internal audit by completing a controls and compliance checklist. 
 
-## Tools
+## Tools / Supporting Materials
  - <a href="Files/Botium Toys_ Scope, goals, and risk assessment report.pdf" >Botium Toys: Scope, goals, and risk assessment report</a>
  - <a href="Files/Control categories.pdf" >Control Categories</a>
- - <a href="Files/Controls and compliance checklist.pdf" >Controls and Compliance Checklist</a>
+ - <a href="Files/Controls and compliance checklist.pdf" >Controls and Compliance Checklist (Completed)</a>
 
 ## Methodology
 Using The company's Risk Assessment Report. I used a controlled categories checklist to perform a Security Audit and made recommendations to the company on how to impove thier risk score.
+
+After reviewing the scope, goals, and risk assessment report details, with a focus on:
+
+ - The assets currently managed by the IT department
+
+ - The bullet points under “Additional comments” in the Risk assessment section
+
+
 
 
 
