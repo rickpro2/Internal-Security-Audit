@@ -17,8 +17,10 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 
 ## Tools
  - <a href="Files/Botium Toys_ Scope, goals, and risk assessment report.pdf" >Botium Toys: Scope, goals, and risk assessment report</a>
+ - <a href="Files/Control categories.pdf" >Control Categories</a>
+ - <a href="Files/Controls and compliance checklist.pdf" >Controls and Compliance Checklist</a>
 
-
+ Files/Controls and compliance checklist.pdf
 
 ## Methodology
 Using The company's Risk Assessment Report. I used a controlled categories checklist to perform a Security Audit and made recommendations to the company on how to impove thier risk score.
