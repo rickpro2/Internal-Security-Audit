@@ -19,9 +19,6 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 Using The company's Risk Assessment Report. I used a controlled categories checklist to perform a Security Audit and made recommendations to the company on how to impove thier risk score.
 
 
-https://docs.google.com/viewer?url=${link_to_raw_pdf}
-
-https://docs.google.com/viewer?url=https://raw.githubusercontent.com/degoes-consulting/lambdaconf-2015/master/speakers/jdegoes/intro-purescript/presentation.pdf
 
 <a href="Files/Control categories.pdf" class="image fit"><img src="Files/Botium_Toys__Scope,_goals,_and_risk_assessment_report.page1.png" alt="">![Files/Botium_Toys__Scope,_goals,_and_risk_assessment_report.page1.png]</a>
 
