@@ -24,9 +24,9 @@ https://docs.google.com/viewer?url=${link_to_raw_pdf}
 
 https://docs.google.com/viewer?url=https://raw.githubusercontent.com/degoes-consulting/lambdaconf-2015/master/speakers/jdegoes/intro-purescript/presentation.pdf
 
-<a href="Files/Control categories.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+<a href="Files/Control categories.pdf" class="image fit"><img src="Files/Botium_Toys__Scope,_goals,_and_risk_assessment_report.page1.png" alt="">This</a>
 
-
+Files/Botium_Toys__Scope,_goals,_and_risk_assessment_report.page1.png
 ## Conclusion
 
 
