@@ -22,7 +22,6 @@ Using The company's Risk Assessment Report. I used a controlled categories check
 
 <a href="Files/Control categories.pdf" class="image fit"><img src="Files/Botium_Toys__Scope,_goals,_and_risk_assessment_report.page1.png" alt=""></a>
 
-Files/Botium_Toys__Scope,_goals,_and_risk_assessment_report.page1.png
 ## Conclusion
 
 
