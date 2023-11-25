@@ -18,7 +18,7 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 ## Methodology
 Using The company's Risk Assessment Report. I used a controlled categories checklist to perform a Security Audit and made recommendations to the company on how to impove thier risk score.
 
-[Some title here](([https://github.com/rickpro2/Internal-Security-Audit/blob/main/Files/Controls%20and%20compliance%20checklist.pdf])
+[Some title here]([https://github.com/rickpro2/Internal-Security-Audit/blob/main/Files/Controls%20and%20compliance%20checklist.pdf])
 
 
 ## Conclusion
