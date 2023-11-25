@@ -20,6 +20,10 @@ Using The company's Risk Assessment Report. I used a controlled categories check
 
 [Some title here]([https://github.com/rickpro2/Internal-Security-Audit/blob/main/Files/Controls%20and%20compliance%20checklist.pdf])
 
+https://docs.google.com/viewer?url=${link_to_raw_pdf}
+
+https://docs.google.com/viewer?url=https://raw.githubusercontent.com/degoes-consulting/lambdaconf-2015/master/speakers/jdegoes/intro-purescript/presentation.pdf
+
 
 ## Conclusion
 
