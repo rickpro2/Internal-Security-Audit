@@ -3,6 +3,7 @@
 ## Introduction
 
 ## Objective
+The objective of this project is to conduct an internal security audit. Audits help ensure that security checks are made, to monitor for threats, risks, or vulnerabilities that can affect an organization’s business continuity and critical assets.
 
 ## Scenario
 > <b>NOTE: This scenario is based on a fictional company:</b>
